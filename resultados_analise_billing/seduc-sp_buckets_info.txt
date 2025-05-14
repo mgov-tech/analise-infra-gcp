@@ -1,0 +1,82 @@
+gs://seduc-data/ :
+	Storage class:			STANDARD
+	Location type:			multi-region
+	Location constraint:		US
+	Versioning enabled:		None
+	Logging configuration:		None
+	Website configuration:		None
+	CORS configuration: 		None
+	Lifecycle configuration:	None
+	Requester Pays enabled:		None
+	Labels:				None
+	Default KMS key:		None
+	Time created:			Wed, 19 Aug 2020 20:10:20 GMT
+	Time updated:			Thu, 18 Aug 2022 17:26:26 GMT
+	Metageneration:			47
+	Bucket Policy Only enabled:	False
+	Public access prevention:	inherited
+	RPO:				DEFAULT
+	ACL:				
+	  [
+	    {
+	      "entity": "project-owners-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "owners"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-viewers-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "viewers"
+	      },
+	      "role": "READER"
+	    },
+	    {
+	      "entity": "project-editors-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "editors"
+	      },
+	      "role": "WRITER"
+	    },
+	    {
+	      "email": "886762218536-compute@developer.gserviceaccount.com",
+	      "entity": "user-886762218536-compute@developer.gserviceaccount.com",
+	      "role": "WRITER"
+	    },
+	    {
+	      "email": "databricks-prodesp@seduc-sp.iam.gserviceaccount.com",
+	      "entity": "user-databricks-prodesp@seduc-sp.iam.gserviceaccount.com",
+	      "role": "WRITER"
+	    }
+	  ]
+	Default ACL:			
+	  [
+	    {
+	      "entity": "project-owners-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "owners"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-editors-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "editors"
+	      },
+	      "role": "OWNER"
+	    },
+	    {
+	      "entity": "project-viewers-1065748619203",
+	      "projectTeam": {
+	        "projectNumber": "1065748619203",
+	        "team": "viewers"
+	      },
+	      "role": "READER"
+	    }
+	  ]

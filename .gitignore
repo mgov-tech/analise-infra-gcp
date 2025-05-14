@@ -1,0 +1,11 @@
+# Arquivos temporários
+~$*
+*.tmp
+*.bak
+
+# Diretórios e arquivos que podem ser sensíveis ou temporários
+resultados_analise_billing/tmp/
+*.log
+
+# Arquivos de ambiente
+.env

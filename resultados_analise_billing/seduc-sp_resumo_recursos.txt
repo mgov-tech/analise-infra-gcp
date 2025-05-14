@@ -1,0 +1,6 @@
+Recursos ativos no projeto seduc-sp:
+- Compute Engine VMs: 0
+- Cloud SQL Instances: 0
+- Cloud Functions: 0
+- App Engine Instances: 0
+- GKE Clusters: 0

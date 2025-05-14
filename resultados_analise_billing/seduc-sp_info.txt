@@ -1,0 +1,8 @@
+createTime: '2020-08-19T19:06:31.172Z'
+lifecycleState: ACTIVE
+name: SEDUC-SP
+parent:
+  id: '328745535106'
+  type: folder
+projectId: seduc-sp
+projectNumber: '1065748619203'

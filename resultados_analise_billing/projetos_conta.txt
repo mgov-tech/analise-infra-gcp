@@ -1,0 +1,6 @@
+PROJECT_ID         BILLING_ACCOUNT_ID    BILLING_ENABLED
+seduc-sp           01C8EE-D5051C-C120BC  True
+mgov-infra         01C8EE-D5051C-C120BC  True
+mgov-demos         01C8EE-D5051C-C120BC  True
+projeto-cariacica  01C8EE-D5051C-C120BC  True
+costa-marfim       01C8EE-D5051C-C120BC  True

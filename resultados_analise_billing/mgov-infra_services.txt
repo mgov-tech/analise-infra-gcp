@@ -1,0 +1,38 @@
+NAME                                TITLE
+appenginereporting.googleapis.com   App Engine
+artifactregistry.googleapis.com     Artifact Registry API
+autoscaling.googleapis.com          Cloud Autoscaling API
+bigquery.googleapis.com             BigQuery API
+bigquerystorage.googleapis.com      BigQuery Storage API
+cloudapis.googleapis.com            Google Cloud APIs
+cloudbuild.googleapis.com           Cloud Build API
+cloudfunctions.googleapis.com       Cloud Functions API
+cloudtrace.googleapis.com           Cloud Trace API
+compute.googleapis.com              Compute Engine API
+container.googleapis.com            Kubernetes Engine API
+containerregistry.googleapis.com    Container Registry API
+datastore.googleapis.com            Cloud Datastore API
+deploymentmanager.googleapis.com    Cloud Deployment Manager V2 API
+dns.googleapis.com                  Cloud DNS API
+firebaserules.googleapis.com        Firebase Rules API
+firestore.googleapis.com            Cloud Firestore API
+geocoding-backend.googleapis.com    Geocoding API
+gkebackup.googleapis.com            Backup for GKE API
+iam.googleapis.com                  Identity and Access Management (IAM) API
+iamcredentials.googleapis.com       IAM Service Account Credentials API
+logging.googleapis.com              Cloud Logging API
+monitoring.googleapis.com           Cloud Monitoring API
+networkconnectivity.googleapis.com  Network Connectivity API
+oslogin.googleapis.com              Cloud OS Login API
+places-backend.googleapis.com       Places API
+pubsub.googleapis.com               Cloud Pub/Sub API
+resourceviews.googleapis.com        Compute Engine Instance Groups API
+run.googleapis.com                  Cloud Run Admin API
+runtimeconfig.googleapis.com        Cloud Runtime Configuration API
+servicemanagement.googleapis.com    Service Management API
+serviceusage.googleapis.com         Service Usage API
+source.googleapis.com               Legacy Cloud Source Repositories API
+sql-component.googleapis.com        Cloud SQL
+stackdriver.googleapis.com          Stackdriver API
+storage-api.googleapis.com          Google Cloud Storage JSON API
+storage-component.googleapis.com    Cloud Storage

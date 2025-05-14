@@ -1,0 +1,3 @@
+ACCOUNT_ID            NAME                        OPEN   MASTER_ACCOUNT_ID
+0116F4-76E3D3-C33DDE  Minha conta de faturamento  False
+01C8EE-D5051C-C120BC  MGov                        True

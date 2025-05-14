@@ -1,0 +1,32 @@
+[
+  {
+    "billingAccountName": "billingAccounts/01C8EE-D5051C-C120BC",
+    "billingEnabled": true,
+    "name": "projects/seduc-sp/billingInfo",
+    "projectId": "seduc-sp"
+  },
+  {
+    "billingAccountName": "billingAccounts/01C8EE-D5051C-C120BC",
+    "billingEnabled": true,
+    "name": "projects/mgov-infra/billingInfo",
+    "projectId": "mgov-infra"
+  },
+  {
+    "billingAccountName": "billingAccounts/01C8EE-D5051C-C120BC",
+    "billingEnabled": true,
+    "name": "projects/mgov-demos/billingInfo",
+    "projectId": "mgov-demos"
+  },
+  {
+    "billingAccountName": "billingAccounts/01C8EE-D5051C-C120BC",
+    "billingEnabled": true,
+    "name": "projects/projeto-cariacica/billingInfo",
+    "projectId": "projeto-cariacica"
+  },
+  {
+    "billingAccountName": "billingAccounts/01C8EE-D5051C-C120BC",
+    "billingEnabled": true,
+    "name": "projects/costa-marfim/billingInfo",
+    "projectId": "costa-marfim"
+  }
+]
