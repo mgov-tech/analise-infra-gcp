@@ -1,0 +1,5 @@
+# Snapshots no Projeto movva-datalake
+# Data: 14/05/2025
+
+NAME                                 DISK_SIZE_GB  SRC_DISK      CREATION_TIMESTAMP
+airbyte-recovery--2023-06-23--14h43  30            airbyte-prod  2023-06-23T10:44:01.643-07:00

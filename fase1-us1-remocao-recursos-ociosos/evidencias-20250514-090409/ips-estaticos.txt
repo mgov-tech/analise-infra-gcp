@@ -1,0 +1,5 @@
+# IPs Estáticos no Projeto movva-datalake
+# Data: 14/05/2025
+
+NAME          ADDRESS       REGION    STATUS  USERS
+airbyte-prod  34.23.150.23  us-east1  IN_USE  ['airbyte-prod']

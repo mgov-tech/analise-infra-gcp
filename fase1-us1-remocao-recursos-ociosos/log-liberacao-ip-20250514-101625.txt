@@ -1,0 +1,13 @@
+Início da execução: Wed May 14 10:16:25 -03 2025
+Status atual do IP 'airbyte-prod':
+address: 34.23.150.23
+name: airbyte-prod
+status: IN_USE
+users:
+- https://www.googleapis.com/compute/v1/projects/movva-datalake/zones/us-east1-b/instances/airbyte-prod
+Liberando IP estático: airbyte-prod (34.23.150.23)
+Deleted [https://www.googleapis.com/compute/v1/projects/movva-datalake/regions/us-east1/addresses/airbyte-prod].
+IP estático liberado com sucesso
+Verificando se o IP ainda existe...
+Confirmado: IP não existe mais no sistema
+Fim da execução: Wed May 14 10:16:30 -03 2025

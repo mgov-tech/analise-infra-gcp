@@ -1,0 +1,14 @@
+# VMs Desligadas no Projeto movva-datalake
+# Data: 14/05/2025
+
+NAME                     ZONE        STATUS      SOURCE  NAT_IP
+airbyte-prod             us-east1-b  TERMINATED          [['34.23.150.23']]
+python-ml1               us-east1-b  TERMINATED          [[None]]
+python-ml2-highmem       us-east1-b  TERMINATED          [[None]]
+python-ml3-e2-highmem64  us-east1-b  TERMINATED          [[None]]
+python-ml4-highmem       us-east1-b  TERMINATED          [[None]]
+sato-test-1              us-east1-b  TERMINATED          [[None]]
+sato-test-3              us-east1-b  TERMINATED          [[None]]
+sato-test-4              us-east1-b  TERMINATED          [[None]]
+sato-test-5              us-east1-b  TERMINATED          [[None]]
+sato-teste-2             us-east1-b  TERMINATED          [[None]]

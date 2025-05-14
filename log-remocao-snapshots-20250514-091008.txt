@@ -1,0 +1,7 @@
+Início da execução: Wed May 14 09:10:08 -03 2025
+Removendo snapshot: airbyte-recovery--2023-06-23--14h43
+Deleted [https://www.googleapis.com/compute/v1/projects/movva-datalake/global/snapshots/airbyte-recovery--2023-06-23--14h43].
+Snapshot removido com sucesso
+Verificando se o snapshot ainda existe...
+Confirmado: snapshot não existe mais no sistema
+Fim da execução: Wed May 14 09:10:15 -03 2025

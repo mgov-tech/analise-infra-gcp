@@ -1,0 +1,11 @@
+# Verificação de App Engine no Projeto movva-datalake
+# Data: 14/05/2025
+
+Resultado da tentativa de listar versões do App Engine:
+
+ERROR: (gcloud.app.versions.list) Apps instance [movva-datalake] not found: Resource 'applications/movva-datalake' was not found. This command is authenticated as pablowinter@movva.tech which is the active account specified by the [core/account] property
+- '@type': type.googleapis.com/google.rpc.ResourceInfo
+  resourceName: applications/movva-datalake
+  
+Conclusão: O projeto movva-datalake não possui uma instância de App Engine configurada, 
+contrariando a expectativa inicial do plano de encontrar versões sem tráfego.

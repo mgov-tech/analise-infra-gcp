@@ -1,0 +1,7 @@
+# Discos Persistentes no Projeto movva-datalake
+# Data: 14/05/2025
+
+Resultado: Listed 0 items.
+
+Observação: Não foram encontrados discos persistentes no projeto movva-datalake, 
+apesar do plano inicial prever a existência de discos ociosos associados às VMs desligadas.
