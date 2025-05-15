@@ -1,0 +1,11 @@
+# IPs Estáticos no Projeto coltrane
+# Data: 14/05/2025
+
+NAME                               ADDRESS         REGION  STATUS    USERS
+coltrane-loadbalancer-demo-ip      34.120.47.139           RESERVED
+coltrane-loadbalancer-demo-ip-br   34.96.87.123            RESERVED
+coltrane-loadbalancer-ip           34.96.115.167           IN_USE    ['coltrane-loadbalancer-frontend', 'coltrane-http']
+coltrane-loadbalancer-ip-br        34.117.207.199          IN_USE    ['coltrane-loadbalancer-frontend-br', 'coltrane-http-br']
+coltrane-loadbalancer-stage-ip     34.120.43.118           IN_USE    ['coltrane-loadbalancer-stage-frontend', 'coltrane-stage-http-frontend']
+coltrane-loadbalancer-stage-ip-br  34.117.71.73            IN_USE    ['coltrane-loadbalancer-stage-frontend-br', 'coltrane-stage-http-frontend-br']
+google-managed-services-default    10.50.32.0              RESERVED

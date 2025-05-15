@@ -1,0 +1,6 @@
+# Snapshots no Projeto movva-captcha
+# Data: 14/05/2025
+
+NAME                          DISK_SIZE_GB  SRC_DISK                  STATUS
+captcha-app-prod-20230510     20            captcha-app-prod          READY
+captcha-app-prod-data-backup  100           captcha-app-prod-data     READY

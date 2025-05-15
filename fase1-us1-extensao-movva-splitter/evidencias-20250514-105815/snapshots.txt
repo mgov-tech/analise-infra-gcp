@@ -1,0 +1,7 @@
+# Snapshots no Projeto movva-splitter
+# Data: 14/05/2025
+
+NAME                          DISK_SIZE_GB  SRC_DISK                 STATUS
+splitter-prod-v1-backup-2023  30            splitter-prod-v1         READY
+splitter-prod-v1-data-backup  100           splitter-prod-v1-data    READY
+splitter-migration-20230715   130           splitter-prod-v1-data    READY

@@ -1,0 +1,10 @@
+# IPs Estáticos no Projeto rapidpro-217518
+# Data: 14/05/2025
+
+NAME                                    ADDRESS         REGION    STATUS    USERS
+google-managed-services-default         10.56.32.0                RESERVED
+rapidpro-mgov-loadbalancer              35.190.50.159             RESERVED
+rapidpro-nudgebots-default-ip-range     10.45.0.0                 RESERVED
+rapidpro-production-ip                  35.244.159.185            IN_USE    ['rapidpro-nudgebots-frontend-forwarding-rule', 'rapidpro-nudgebots-frontend']
+elasticsearch-internal-ip               10.142.0.54     us-east1  RESERVED
+nat-auto-ip-2470853-4-1649915524513109  34.148.201.255  us-east1  IN_USE    ['zenvia-allowed-router']

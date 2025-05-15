@@ -1,0 +1,5 @@
+# Discos Persistentes no Projeto coltrane
+# Data: 14/05/2025
+
+NAME                                                             LOCATION       LOCATION_SCOPE  SIZE_GB  TYPE         STATUS
+gke-us-central1-airflo-pvc-4a2af010-42c3-4233-9ca0-4d1b0c87b7e7  us-central1-c  zone            2        pd-standard  READY

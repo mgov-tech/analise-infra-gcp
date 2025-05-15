@@ -1,0 +1,7 @@
+# IPs Estáticos no Projeto movva-captcha
+# Data: 14/05/2025
+
+NAME              ADDRESS        REGION        STATUS    USERS
+captcha-dev       35.224.42.178  us-central1   RESERVED
+captcha-prod      35.224.45.120  us-central1   IN_USE    ['captcha-app-prod']
+captcha-lb        35.224.50.200  us-central1   IN_USE    ['captcha-lb-frontend']

@@ -1,0 +1,11 @@
+# Versões de App Engine no Projeto operations-dashboards
+# Data: 14/05/2025
+
+SERVICE         VERSION.ID       TRAFFIC_SPLIT  LAST_DEPLOYED          SERVING_STATUS
+dashboards      20230827t140516  0.00           2023-08-27T14:05:16Z   STOPPED
+dashboards      20231012t123045  0.00           2023-10-12T12:30:45Z   STOPPED
+dashboards      20240305t091230  0.00           2024-03-05T09:12:30Z   STOPPED
+dashboards      20250128t151233  1.00           2025-01-28T15:12:33Z   SERVING
+reports         20231105t082510  0.00           2023-11-05T08:25:10Z   STOPPED
+reports         20240216t110845  0.00           2024-02-16T11:08:45Z   STOPPED
+reports         20250203t143022  1.00           2025-02-03T14:30:22Z   SERVING

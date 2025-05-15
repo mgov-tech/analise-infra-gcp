@@ -1,0 +1,9 @@
+# Discos Persistentes no Projeto movva-splitter
+# Data: 14/05/2025
+
+NAME                    LOCATION       LOCATION_SCOPE  SIZE_GB  TYPE         STATUS
+splitter-prod-v1        us-central1-a  zone            30       pd-standard  READY
+splitter-prod-v1-data   us-central1-a  zone            100      pd-standard  READY
+splitter-stage-v1       us-central1-a  zone            30       pd-standard  READY
+splitter-prod-v2        us-central1-a  zone            50       pd-ssd       READY
+splitter-prod-v2-data   us-central1-a  zone            150      pd-standard  READY

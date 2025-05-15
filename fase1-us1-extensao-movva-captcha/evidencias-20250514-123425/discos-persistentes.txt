@@ -1,0 +1,7 @@
+# Discos Persistentes no Projeto movva-captcha
+# Data: 14/05/2025
+
+NAME                   LOCATION       LOCATION_SCOPE  SIZE_GB  TYPE         STATUS
+captcha-dev            us-central1-a  zone            10       pd-standard  READY
+captcha-app-prod       us-central1-a  zone            20       pd-ssd       READY
+captcha-app-prod-data  us-central1-a  zone            100      pd-standard  READY

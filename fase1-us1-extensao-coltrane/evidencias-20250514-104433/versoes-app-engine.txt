@@ -1,0 +1,32 @@
+# Versões de App Engine no Projeto coltrane
+# Data: 14/05/2025
+
+SERVICE       VERSION.ID       TRAFFIC_SPLIT  LAST_DEPLOYED  SERVING_STATUS
+default       20230320t171012  0.00           2023-03-20     STOPPED
+default       20230321t150146  0.00           2023-03-21     STOPPED
+default       20230508t205124  0.00           2023-05-08     STOPPED
+default       20230512t135645  0.00           2023-05-12     STOPPED
+default       20230822t121613  0.00           2023-08-22     STOPPED
+default       20230927t182812  0.00           2023-09-27     STOPPED
+default       20231101t202556  0.00           2023-11-01     STOPPED
+default       20240502t142605  0.00           2024-05-02     STOPPED
+default       20240502t170459  0.00           2024-05-02     STOPPED
+default       20240821t180928  0.00           2024-08-21     STOPPED
+default       20240828t192213  0.00           2024-08-28     STOPPED
+default       20240911t000516  0.00           2024-09-10     STOPPED
+default       20240911t005202  0.00           2024-09-10     STOPPED
+default       20240920t191933  0.00           2024-09-20     STOPPED
+default       20240927t140319  0.00           2024-09-27     STOPPED
+default       20241017t132005  0.00           2024-10-17     STOPPED
+default       20241023t143513  0.00           2024-10-23     STOPPED
+default       20241023t192557  0.00           2024-10-23     STOPPED
+default       20241023t220732  0.00           2024-10-23     STOPPED
+default       20241024t113448  0.00           2024-10-24     STOPPED
+default       20241025t145106  0.00           2024-10-25     STOPPED
+default       20241104t132844  0.00           2024-11-04     STOPPED
+default       20241105t135131  0.00           2024-11-05     STOPPED
+default       20241106t135342  0.00           2024-11-06     STOPPED
+default       20241107t171126  0.00           2024-11-07     STOPPED
+default       20241107t184352  0.00           2024-11-07     STOPPED
+default       20241127t212410  0.00           2024-11-27     STOPPED
+default       20241128t151206  1.00           2024-11-28     SERVING

@@ -1,0 +1,6 @@
+# Discos Persistentes no Projeto operations-dashboards
+# Data: 14/05/2025
+
+NAME                                      LOCATION       LOCATION_SCOPE  SIZE_GB  TYPE         STATUS
+dashboards-vm-test                        us-central1-a  zone           10       pd-standard  READY
+dashboards-vm-test-backup                 us-central1-a  zone           10       pd-standard  READY

@@ -1,0 +1,22 @@
+# Discos Persistentes no Projeto rapidpro-217518
+# Data: 14/05/2025
+
+NAME                                                             LOCATION    LOCATION_SCOPE  SIZE_GB  TYPE         STATUS
+rapidpro                                                         us-west1-c  zone            200      pd-standard  READY
+gke-elasticsearch-redi-pvc-37a4ce3d-9cd4-4f5e-8103-b0f1de4ef0b0  us-east1-b  zone            50       pd-ssd       READY
+gke-elasticsearch-redi-pvc-5a4c9965-b742-484a-856c-02ae5db4ee08  us-east1-b  zone            50       pd-ssd       READY
+gke-rapidpro-nudgebots-pvc-6f881f7f-b29c-408e-9b49-ec35d2fdfc42  us-east1-c  zone            10       pd-ssd       READY
+gke-rapidpro-nudgebots-pvc-ae53c580-9549-4e99-a530-8e91fbfc67cd  us-east1-c  zone            1        pd-ssd       READY
+gke-rapidpro-nudgebots-pvc-b39bcc7b-573b-4509-a69e-61b78d196150  us-east1-c  zone            100      pd-ssd       READY
+gke-rapidpro-nudgebots-pvc-cd79f035-24d1-45e8-b054-cdc8f21cfcb4  us-east1-c  zone            100      pd-ssd       READY
+gke-rapidpro-productio-pvc-7175b6da-a6a9-4390-9250-3c8a95ec7b9f  us-east1-c  zone            1        pd-ssd       READY
+gke-rapidpro-productio-pvc-b1ecc1c5-a91a-4e57-a5d5-b03130bdeef7  us-east1-c  zone            100      pd-ssd       READY
+gke-rapidpro-productio-pvc-cc5ea4de-34ae-4bbc-911a-be7f2fdb49b3  us-east1-c  zone            10       pd-ssd       READY
+pvc-9f250c83-9a19-46b4-9bff-3ea6eebffc0b                         us-east1-c  zone            100      pd-ssd       READY
+gke-elasticsearch-redi-pvc-e1a414f4-f3de-475c-b786-110f6754fb5d  us-east1-d  zone            50       pd-ssd       READY
+gke-elasticsearch-redi-pvc-e666170b-8135-4a54-a7c7-190db25e8668  us-east1-d  zone            50       pd-ssd       READY
+gke-rapidpro-productio-pvc-4a733315-7d27-42e5-8676-b1b55ab1a7eb  us-east1-d  zone            100      pd-ssd       READY
+gke-rapidpro-productio-pvc-7f97555c-54c7-48ad-8549-cbe177438ef2  us-east1-d  zone            1        pd-ssd       READY
+gke-rapidpro-productio-pvc-b66eadc0-0019-4341-8522-3a0b09a707c7  us-east1-d  zone            100      pd-ssd       READY
+gke-rapidpro-productio-pvc-e254a95e-4613-4023-b792-12d94ee15167  us-east1-d  zone            10       pd-ssd       READY
+pvc-8fc2a901-ce2f-439d-844f-addbdefd7488                         us-east1-d  zone            100      pd-ssd       READY

@@ -1,0 +1,11 @@
+# Versões de App Engine no Projeto movva-splitter
+# Data: 14/05/2025
+
+SERVICE            VERSION.ID       TRAFFIC_SPLIT  LAST_DEPLOYED          SERVING_STATUS
+splitter-api       20230510t132045  0.00           2023-05-10T13:20:45Z   STOPPED
+splitter-api       20230715t091230  0.00           2023-07-15T09:12:30Z   STOPPED
+splitter-api       20240305t114523  0.00           2024-03-05T11:45:23Z   STOPPED
+splitter-api       20250212t151233  1.00           2025-02-12T15:12:33Z   SERVING
+splitter-frontend  20230520t082510  0.00           2023-05-20T08:25:10Z   STOPPED
+splitter-frontend  20240125t110845  0.00           2024-01-25T11:08:45Z   STOPPED
+splitter-frontend  20250305t143022  1.00           2025-03-05T14:30:22Z   SERVING

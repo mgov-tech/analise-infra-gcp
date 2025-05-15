@@ -1,0 +1,5 @@
+# VMs em estado TERMINATED no Projeto movva-captcha
+# Data: 14/05/2025
+
+NAME                 ZONE           MACHINE_TYPE   PREEMPTIBLE  INTERNAL_IP  EXTERNAL_IP    STATUS
+captcha-dev          us-central1-a  e2-small       false        10.128.0.4   35.224.42.178  TERMINATED

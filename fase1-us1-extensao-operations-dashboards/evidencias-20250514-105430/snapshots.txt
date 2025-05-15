@@ -1,0 +1,6 @@
+# Snapshots no Projeto operations-dashboards
+# Data: 14/05/2025
+
+NAME                        DISK_SIZE_GB  SRC_DISK                             STATUS
+dashboards-vm-test-backup1  10            dashboards-vm-test                   READY
+dashboards-vm-test-backup2  10            dashboards-vm-test                   READY

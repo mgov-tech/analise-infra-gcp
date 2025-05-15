@@ -1,0 +1,5 @@
+# Snapshots no Projeto rapidpro-217518
+# Data: 14/05/2025
+
+NAME        DISK_SIZE_GB  SRC_DISK  CREATION_TIMESTAMP
+snapshot-1  30            rapidpro  2019-01-10T08:26:12.329-08:00

@@ -1,0 +1,5 @@
+# VMs em estado TERMINATED no Projeto operations-dashboards
+# Data: 14/05/2025
+
+NAME                 ZONE           MACHINE_TYPE   PREEMPTIBLE  INTERNAL_IP  EXTERNAL_IP    STATUS
+dashboards-vm-test   us-central1-a  e2-micro       false       10.128.0.5   34.71.179.233  TERMINATED

@@ -1,0 +1,5 @@
+# IPs Estáticos no Projeto operations-dashboards
+# Data: 14/05/2025
+
+NAME                 ADDRESS        REGION        STATUS    USERS
+dashboards-vm-test   34.71.179.233  us-central1   RESERVED

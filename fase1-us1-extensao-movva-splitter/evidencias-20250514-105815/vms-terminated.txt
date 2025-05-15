@@ -1,0 +1,6 @@
+# VMs em estado TERMINATED no Projeto movva-splitter
+# Data: 14/05/2025
+
+NAME                ZONE           MACHINE_TYPE   PREEMPTIBLE  INTERNAL_IP  EXTERNAL_IP  STATUS
+splitter-prod-v1    us-central1-a  e2-standard-2  false        10.128.0.2   34.72.45.89  TERMINATED
+splitter-stage-v1   us-central1-a  e2-medium      false        10.128.0.3   34.72.46.90  TERMINATED

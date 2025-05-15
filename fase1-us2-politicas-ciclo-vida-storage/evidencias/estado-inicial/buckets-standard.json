@@ -1,0 +1,103 @@
+{
+  "data_coleta": "14/05/2025 12:35",
+  "buckets_standard": [
+    {
+      "nome": "movva-datalake",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "10/06/2021",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "movva-datalake-us-notebooks",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "04/05/2022",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "movva-sandbox",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "08/06/2021",
+      "projeto": "A determinar"
+    },
+    {
+      "nome": "razoes-pra-ficar",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "05/04/2022",
+      "projeto": "rapidpro-217518"
+    },
+    {
+      "nome": "poc-razoes-pra-ficar",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "27/04/2022",
+      "projeto": "rapidpro-217518"
+    },
+    {
+      "nome": "databricks-4138051524165097",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "21/10/2021",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "databricks-4138051524165097-system",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "21/10/2021",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "databricks-851498650456327",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "22/03/2023",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "databricks-851498650456327-system",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "22/03/2023",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "databricks_bigquery_temp_storage",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "03/04/2023",
+      "projeto": "operations-dashboards"
+    },
+    {
+      "nome": "gcf-sources-490115063341-us-east1",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "02/09/2021",
+      "projeto": "A determinar"
+    },
+    {
+      "nome": "us-east1-movva-airflow-0c63c8d9-bucket",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "22/05/2023",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "us-east1-movva-airflow-b52650f7-bucket",
+      "localizacao": "US-EAST1",
+      "classe": "STANDARD",
+      "data_criacao": "19/05/2023",
+      "projeto": "movva-datalake"
+    },
+    {
+      "nome": "us.artifacts.movva-datalake.appspot.com",
+      "localizacao": "US",
+      "classe": "STANDARD",
+      "data_criacao": "02/09/2021",
+      "projeto": "movva-datalake"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# IPs Estáticos no Projeto movva-splitter
+# Data: 14/05/2025
+
+NAME                ADDRESS        REGION        STATUS    USERS
+splitter-prod-v1    34.72.45.89    us-central1   RESERVED
+splitter-stage-v1   34.72.46.90    us-central1   RESERVED
+splitter-prod-v2    34.72.50.120   us-central1   IN_USE    ['splitter-prod-v2']
+splitter-lb         34.72.60.200   us-central1   IN_USE    ['splitter-lb-frontend']
